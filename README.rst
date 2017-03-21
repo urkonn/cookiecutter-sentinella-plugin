@@ -12,6 +12,6 @@ Usage
 ::
 
     $ pip install cookiecutter
-    $ cookiecutter https://github.com/user/sentinella-plugin_name
+    $ cookiecutter https://github.com/urkonn/cookiecutter-sentinella-plugin.git
 
 You will be asked for some values (your name, plugin name, plugin key, etc.).
