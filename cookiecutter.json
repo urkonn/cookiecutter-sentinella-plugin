@@ -1,0 +1,8 @@
+{
+    "author_name": "Your name",
+    "author_email": "you@example.com",
+    "repo_url": "http://github.com/you/sentinella-plugin_name",
+    "plugin_key": "Your plugin key provided by sentinella",
+    "plugin_name": "sentinella-plugin_name",
+    "plugin_description": "A short description of your plugin"
+}
