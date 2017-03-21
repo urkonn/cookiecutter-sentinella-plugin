@@ -1,7 +1,7 @@
 cookiecutter-sentinella-plugin
 ==================
 
-A cookiecutter_ for Sentinel.la plugins
+A cookiecutter_ for Sentinel.la_ plugins
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 
