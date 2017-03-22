@@ -18,7 +18,7 @@ def get_stats(agent):
     After plugin installation, copy the configuration file
     from sentinella-plugin-template/conf/ to /etc/sentinella/conf.d/
     """
-    config = agent.config['test']
+    config = agent.config['{{cookiecutter.plugin_name}}']
     
     """
     The plugin Key is a unique UUID provided by Sentinel.la.
