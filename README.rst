@@ -7,6 +7,9 @@ A cookiecutter_ for Sentinel.la_ plugins
 
 .. _Sentinel.la: https://www.sentinel.la
 
+.. image:: /images/example.png
+   :alt: Sentinella plugins
+
 Usage
 ----------
 ::
