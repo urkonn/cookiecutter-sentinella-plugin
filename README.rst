@@ -12,7 +12,7 @@ A cookiecutter_ for Sentinel.la_ plugins
 
 Usage
 ----------
-Before usage the next commands, you should register your plugin, follow this.. _Documentations: https://www.sentinel.la/docs/
+Before usage the next commands, you should register your plugin, follow this .. _Documentations: https://www.sentinel.la/docs/
 ::
 
     $ pip install cookiecutter
